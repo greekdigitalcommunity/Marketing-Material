@@ -5,3 +5,5 @@ fonts and various design elements.
 
 ### Elemens
 - [Logos](/logos/)
+- [Newsletters](/newsletters/)
+
