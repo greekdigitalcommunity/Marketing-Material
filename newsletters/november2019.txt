@@ -1,0 +1,39 @@
+Μηνιαία ενημέρωση Νοεμβρίου 2019 
+@channel Καλημέρα/καλησπέρα σε όλες και σε όλους! :wave:
+
+Ο σκοπός αυτού του μηνύματος είναι η ενημέρωση σας με τα νέα της κοινότητας, που οπως αναφέραμε θα γίνεται μια φορά το μήνα :-)
+
+ΔΡΑΣΤΗΡΙΟΤΗΤΕΣ/ΝΕΑ ΤΗΣ ΚΟΙΝΟΤΗΤΑΣ 
+
+- Συναντήσεις : Αυτόν τον μήνα στης 18 Νοεμβρίου έγινε μία συνάντηση του GDC και των #SocialNerds στο Άμστερνταμ https://greekdigitalcommunity.slack.com/archives/CG3P2QK53/p1574370069047000. Η συνάντηση συνέπεσε με το μηνιαίο AmsterdamPHP meetup στο οποίο και βρεθήκαμε για να παρακολουθήσουμε τα νέα της PHP 7.4.  
+
+
+
+Τέλος, συγκρατήσαμε μερικές ενδιαφέρουσες συζητήσεις και κάποια ωραία videos/blogs απο τα κανάλια στο τελευταίο διάστημα:
+- Behavioral Drive Development (BDD) και γιατί να το χρησιμοποιήσει κανείς αντί του TDD: https://greekdigitalcommunity.slack.com/archives/C4VTJSYJD/p1572903996239900
+
+- Νέο κανάλι στο youtube από την @Sofia Karaterzidi με ελληνικα tutorials για διαφορες γλωσσες προγραμματισμου. Σημαντικό οτι εχει ξεκινησει διαδικασια εισαγωγής ελληνικων υποτιτλων στα βιντεο για ατομα που εχουν προβλημα στην ακοή. Το καναλι μπορείτε να το βρείτε εδώ www.youtube.com/c/greekcodecamp : https://greekdigitalcommunity.slack.com/archives/C4VTJSYJD/p1573597685356500
+
+- Νέο κανάλι στο youtube από τον @Vassilis Saltis σχετικά με τον κώδικα και την τεχνολογία. Εχουμε επίσης δημιουργήσει κανάλι #techandcode όπου κάποιος μπορεί να μιλήσει με τον δημιουργό απευθείας. https://greekdigitalcommunity.slack.com/archives/C4VTJSYJD/p1573749401399700
+
+- Πολυσυζητημένο, ενδιαφέρον αλλά και αμφιλεγόμενο θέμα στο #general σχετικά με το πως διαχειριζόμαστε κωδικούς σε production αλλά και σε περιβάλλον οργάνωσης. https://greekdigitalcommunity.slack.com/archives/C4VTJSYJD/p1573740572382300
+
+- Καθώς ο @Stelios Moschos έψαχνε για Go tutorials ο @lazaros (AzeR) πρότεινε κάποια πολύ καλά Online tutorials. https://greekdigitalcommunity.slack.com/archives/C4VTJSYJD/p1573514930344000
+
+- Συζητήθηκε στο #general η κλιματική αλλαγή και τι κάνουμε εμείς σαν επαγγελματίες του χώρου. Σύμφωνα με τα δεδομένα που ακούγονται υπάρχουν ήδη προβλήματα στο περιβάλλον και η “κλιματική αλλαγή” είναι ήδη εδώ. Τι θα μπορούσαμε να κάνουμε εμείς;
+https://greekdigitalcommunity.slack.com/archives/C4VTJSYJD/p1574849472109500
+
+- Αναφορά απο τον @Thanos Irodotou ενός link με πολύ χρήσιμα εργαλεία σχετικά με το k8s (The Golden Kubernetes Tooling and Helpers list) https://greekdigitalcommunity.slack.com/archives/C4VTJSYJD/p1575020783200700
+
+- Η ομάδα των #socialnerds συνεχίζει κάνοντας τρομερή δουλειά και παρουσιάζοντας μας συνεχώς βίντεο που καλύπτουν τον χώρο του προγραμματισμού και όχι μόνο. Επίσης ξεκίνησαν workshops στην Αθήνα, με σκοπό να βοηθήσουν κόσμο με την εκμάθηση διαφόρων τεχνολογιών (πχ React/Laravel). Για περισσότερα επικοινωνήστε με τους @Thanos Nokas @ThanosKorakas ή ρωτήστε τους στο κανάλι #socialnerds.
+
+
+Αυτά τα λίγα και καλά. Αν υπάρχει οποιαδήποτε ερώτηση, μπορείτε να αφήσετε κάποιο σχόλιο απο κάτω.
+Καλή συνέχεια! 
+￼
+Greek Digital Community 
+
+Βρείτε μας στα παρακάτω social media:
+https://www.linkedin.com/company/20340376/ 
+https://twitter.com/greekdigitalcom
+www.fb.com/greekdigitalcommunity 
