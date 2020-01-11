@@ -32,13 +32,14 @@
   Κρατήστε το στα bookmarks ;) 
   http://bit.ly/testing-guide-martin-fowler
 
-
 - Προγνωστικά 2020 για τον κόσμο του Software! Καλή Χρονιά είπαμε; :)
   http://bit.ly/2020-software-predictions-infoq
 
 - Mη ξεχνάτε! JobDay Dev στην Αθήνα στις 19 Ιανουαρίου 2020. Πολλές εταιρίες, πολλοί προγραμματιστές, ελεύθερη είσοδος! Στο Σεράφειο Δήμου Αθηναίων.
   http://bit.ly/jobday-dev-athens
-  
+
+- Τέλος, μια πολύ ενδιαφέρουσα αναφορά για τον κόσμο της Τεχνολογίας στην Ευρώπη του 2019. Το βρήκαμε στο κανάλι #startup της κοινότητας μας (https://greekdigitalcommunity.slack.com/archives/CPJBSSYRF).
+  http://bit.ly/state-of-eu-tech-2019 
 
 Αυτά τα λίγα και καλά. Αν υπάρχει οποιαδήποτε ερώτηση, μπορείτε να αφήσετε κάποιο σχόλιο απο κάτω ή να επικοινωνήσετε με οποιοδήποτε μέλος της ομάδας διαχείρισης. Θα τους βρείτε εδώ https://greekdigitalcommunity.com/terms.html.
 
