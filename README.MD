@@ -3,7 +3,7 @@
 Marketing material of Greek Digital Community assets.E.g logos,
 fonts and various design elements.
 
-### Elemens
+### Elements
 - [Logos](/logos/)
 - [Newsletters](/newsletters/)
 
