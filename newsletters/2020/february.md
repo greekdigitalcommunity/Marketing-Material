@@ -3,8 +3,7 @@
 ```
 |---> Μηνιαία ενημέρωση Φεβρουαρίου 2020 <---|
 
-Επιστρέφουμε με το νέο μας ενημερωτικό δελτίο, όπου ανατρέχουμε στις δραστηριότητες/νέα του περασμένου μήνα. Ελπίζουμε να σας φαίνεται χρήσιμο! Μη διστάσετε να μας πείτε τη γνώμη σας είτε σε σχόλιο απο κάτω, είτε στέλνοντας προσωπικό μήνυμα σε κάποιο απο τα μέλη της ομάδας διαχείρισης. 
-
+Επιστρέφουμε με το νέο μας ενημερωτικό δελτίο, όπου ανατρέχουμε στις δραστηριότητες/νέα του περασμένου μήνα.
 
 ΔΡΑΣΤΗΡΙΟΤΗΤΕΣ/ΝΕΑ ΤΗΣ ΚΟΙΝΟΤΗΤΑΣ 
 
@@ -15,22 +14,39 @@
 - Ένα πολύ ωραίο άρθρο για mentoring απο τη Guider. 
   "Mentoring Statistics: The Research You Need To Know" - http://bit.ly/guider-mentoring 
 
-- Επιστρέφουμε σε ένα θέμα που συζητήσαμε στο παρελθόν. Πως το Low-Τech magazine δημιούργησε μία "πράσινη"/βιώσιμη ιστοσελίδα που βασίζεται 100% στην ηλιακή ενέργεια!
+- Επιστρέφουμε σε ένα θέμα που συζητήσαμε στο παρελθόν. Πως το Low-Τech magazine δημιούργησε μία "πράσινη" ιστοσελίδα που βασίζεται 100% σε ηλιακή ενέργεια!
   http://bit.ly/solar-powered-website
 
-- Software Testing. Έχουν γίνει αρκετές συζητήσεις στην κοινότητα μας πάνω στο θέμα. Συνεχίζουμε να επιμένουμε στο πόσο σημαντικό είναι... 
-  Στο παρακάτω λινκ ο @val μοιράζεται ένα οδηγό για testing απο τον Martin Fowler. 
-  Κρατήστε το στα bookmarks ;) 
-  http://bit.ly/testing-guide-martin-fowler
+- BETA έκδοση του Github CLI για καλύτερη εμπειρία μέσα απο το terminal. Ποιος πάει μέχρι το browser όταν έχεις μια μαύρη οθονούλα που κάνει τα πάντα :)
+http://bit.ly/github-command-line
+
+- "Εισαγωγή στη θεωρία των γράφων" - Όχι όχι μην τρομάζετε. Είναι ενδιαφέρον! Αν δεν σου χρειάζεται τώρα, είναι ωραία γενική πληροφορία για να έχεις στο πίσω μέρος του μυαλού σου, (και αν έχεις τα υπαρξιακά σου όπως λέει και ο @ThanosKorakas :P )
+http://bit.ly/intro-graph-theory
 
 - Προγνωστικά 2020 για τον κόσμο του Software! Καλή Χρονιά είπαμε; :)
   http://bit.ly/2020-software-predictions-infoq
 
-- Mη ξεχνάτε! JobDay Dev στην Αθήνα στις 19 Ιανουαρίου 2020. Πολλές εταιρίες, πολλοί προγραμματιστές, ελεύθερη είσοδος! Στο Σεράφειο Δήμου Αθηναίων.
-  http://bit.ly/jobday-dev-athens
+- Η TripleByte δημιούργησε το “FizzBuzz 2.0", ένα πολύ εύκολο test για να φιλτράρουν με πολύ απλά κριτήρια ποιον θα προχωρήσουν στην επόμενη φάση.
+http://bit.ly/pragmatic-programming-test
 
-- Τέλος, μια πολύ ενδιαφέρουσα αναφορά για τον κόσμο της Τεχνολογίας στην Ευρώπη του 2019. Το βρήκαμε στο κανάλι #startup της κοινότητας μας (https://greekdigitalcommunity.slack.com/archives/CPJBSSYRF).
-  http://bit.ly/state-of-eu-tech-2019 
+- "How to Learn Software Design and Architecture | The Full-stack Software Design & Architecture Map" - Δε σχολιάζω άλλο. Ο τίτλος μιλάει απο μόνος του :)
+http://bit.ly/learn-sw-design-architecture
+
+- Μια απο τις συζητήσεις της κοιντότητας σχετικά με το θέμα της εξ'αποστάσεως εργασίας, μιας και "τρεντάρει" αυτη την περίοδο.   http://bit.ly/remote-work-discussion
+
+- Πως να γράψετε unmaintainable κώδικα.  http://bit.ly/unmaintainable-code
+
+- Και φυσικά, να αναφέρουμε την τρομερή δουλειά των #socialnerds, του @Vassilis Saltis στο #techandcode και της ομάδας του καναλιού #agile που συνεχώς δημιουργούν όλα αυτά τα χρήσιμα βίντεο με συζητήσεις πάνω σε θέματα του χώρου μας.
+      - Socialnerds:
+        Παρέα με τον @val και τον @sotoz συζητούν για το θέμα του Command Query Responsibility Segregation! http://bit.ly/socialnerds-cqrs-intro
+      - Agile: 
+        "Agile και Security" https://www.youtube.com/watch?v=QKXUL-ieip8
+        "Forecasting" https://www.youtube.com/watch?v=HjbrDbFIus4
+        "Τι κάνεις όταν έχεις πολλές ομάδες" https://www.youtube.com/watch?v=sp1M4rWb9wM
+      - Techandcode:
+        "SQLAlchemy στα ελληνικά 8" https://youtu.be/xZ7h6DwiFeQ
+        "ExpressJS στα ελληνικά" https://youtu.be/GwzQ0M32iwE
+        "Γραφήματα με chart.js" https://youtu.be/3-NsFHixbgw
 
 Αυτά τα λίγα και καλά. Αν υπάρχει οποιαδήποτε ερώτηση, μπορείτε να αφήσετε κάποιο σχόλιο από κάτω ή να επικοινωνήσετε με οποιοδήποτε μέλος της ομάδας διαχείρισης. Θα τους βρείτε εδώ https://greekdigitalcommunity.com/terms.html.
 
