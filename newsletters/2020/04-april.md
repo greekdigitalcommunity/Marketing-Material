@@ -13,6 +13,16 @@
 
 Ας συγκεντρώσουμε τα highlights του μήνα που πέρασε, από ενδιαφέρουσες συζητήσεις, video και αναρτήσεις στα κανάλια της κοινότητας:
 
+- https://github.com/dpagidas/CoronaVirus-Greek-Info
+- https://github.com/georgebak2182/qr-code-generator
+
+- https://github.com/liuchong/awesome-roadmaps
+- https://www.wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/
+- survey for freelancers --> https://docs.google.com/forms/d/e/1FAIpQLSeV3wuZAWnhtxGA-j4Zr8VVRDdJxyHbdU0w1WGBXLSZSQw_gQ/viewform?hl=en&fbclid=IwAR2GDD6av6bY5YEN9m2an8zevrIXxTCBRLEZP2w6h8L3HLNclmAPRFTp6mA
+
+- https://youthentrepreneurship.club/startup-greece-week-2020-sessions/
+
+
 - #admin:
 - #agile:
 - #backend:
