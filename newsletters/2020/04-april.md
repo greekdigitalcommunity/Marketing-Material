@@ -15,6 +15,8 @@
 
 - Ο @georgebakalis δημιούργησε και μοιράστηκε μαζί μας ένα QR Code Generator με Python backend https://github.com/georgebak2182/qr-code-generator. Πολύ ωραία δουλειά!
 
+- o @Aris έφτιαξε μία εφαρμογή με react-native και wordpress e-commerce η οποία μπορεί να χρησιμοποιηθεί σε οποιοδήποτε site αρκεί να προστεθεί ένα plug-in που δημιούργησε ο ίδιος. Δείτε το εδώ https://www.youtube.com/watch?v=vQVEEF2RKfg
+
 - Τι άλλο χρειάζεσαι να μάθεις για να συνεχίσεις δυνατός στο μονοπάτι του προγραμματισμού. Ενα Github project που συλλέγει διάφορα roadmaps σε μια λίστα: https://github.com/liuchong/awesome-roadmaps. Ευχαριστούμε @Paul που το μοιράστηκες.
 
 - https://www.wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/
