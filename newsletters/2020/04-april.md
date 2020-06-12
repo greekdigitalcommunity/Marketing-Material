@@ -17,20 +17,12 @@
 
 - Τι άλλο χρειάζεσαι να μάθεις για να συνεχίσεις δυνατός στο μονοπάτι του προγραμματισμού. Ενα Github project που συλλέγει διάφορα roadmaps σε μια λίστα: https://github.com/liuchong/awesome-roadmaps. Ευχαριστούμε @Paul που το μοιράστηκες.
 
-
 - https://www.wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/
 
 - survey for freelancers --> https://docs.google.com/forms/d/e/1FAIpQLSeV3wuZAWnhtxGA-j4Zr8VVRDdJxyHbdU0w1WGBXLSZSQw_gQ/viewform?hl=en&fbclid=IwAR2GDD6av6bY5YEN9m2an8zevrIXxTCBRLEZP2w6h8L3HLNclmAPRFTp6mA
 
 - https://youthentrepreneurship.club/startup-greece-week-2020-sessions/
 
-
-- #backend:
-- #cms:
-- #devops: 
-- #events: 
-- #frontend: 
-- #gaming: 
 
 - #general:
 
@@ -52,15 +44,10 @@
     Βγήκε το Technology Radar 2020 απο την Thoughtworks. Δες εδώ https://www.thoughtworks.com/radar
 
 
-- #jobs: 
-- #startups
-
-
-Φυσικά τα λόγια είναι περιττά για τα δυνατότερα κανάλια μας που με το content τους μας χαρίζουν άπειρη γνώση, #socialnerds με ΘάνοN, ΘάνοK & more, #techandcode με @Vassilis Saltis και #agile team.
-- Socialnerds:
-- Agile:
-- Techandcode:
-
+Φυσικά τα λόγια είναι περιττά για τα δυνατότερα κανάλια μας που με το content τους μας χαρίζουν άπειρη γνώση, #socialnerds με ΘάνοN, ΘάνοK & more, #techandcode με @Vassilis Saltis και #agile team. Δείτε τα τελευταία τους βίντεο στο αντίστοιχο κανάλι και στο YouTube:
+- Agile
+- Socialnerds
+- Techandcode
 
 Αν υπάρχει οποιαδήποτε ερώτηση, μπορείτε να αφήσετε κάποιο σχόλιο από κάτω ή να επικοινωνήσετε με οποιοδήποτε μέλος της ομάδας διαχείρισης. Θα τους βρείτε εδώ https://greekdigitalcommunity.com/terms.html. Φυσικά μπορείτε να προτείνετε αλλαγές και στο #gdc-feedback.
 
