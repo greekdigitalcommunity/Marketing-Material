@@ -9,6 +9,7 @@
     Ας συγκεντρώσουμε τα highlights του μήνα που πέρασε, από ενδιαφέρουσες συζητήσεις, video και αναρτήσεις στα κανάλια της κοινότητας:
 
 
+
     #random/ #cms/ #devops
 
     - O @Dimitris Pagidas έφτιαξε μια Αndroid εφαρμογή που διευκολύνει την αυτόματη αποστολή στο 13033 για να πάρουν οι πολίτες άδεια για τις μετακινήσεις τους. Επίσης περιέχει στοιχεία για τον Κορωνοϊό στην Ελλάδα https://github.com/dpagidas/CoronaVirus-Greek-Info! 
@@ -22,6 +23,7 @@
     - Παρακολουθήσαμε μια πολύ ενδιαφέρουσα σειρά συνομιλιών, όπου διαφορετικές πόλεις της Ελλάδας μίλησαν για το παρελθόν, το παρόν και το μέλλον των startups σε όλη τη χώρα https://youthentrepreneurship.club/startup-greece-week-2020-sessions/
 
     -  Πραγματοποιήθηκε το "Greeks in Tech Live", ένα event με Έλληνες ιδρυτές εταιριών απο όλο τον κόσμο. To βίντεο είναι διαθέσιμο εδώ https://www.totheport.com/insights/celebrating-the-successes-of-greek-founders-amp-their-global-tech-solutions-greeks-in-tech-live-recap
+
 
 
     #general:
@@ -38,7 +40,7 @@
 
         Re-share απο stackoverflow: 8 τρόποι ευτυχίας για έναν developer" https://stackoverflow.blog/2020/02/27/the-eight-factors-of-happiness-for-developers
 
-        Βγήκε το Technology Radar 2020 απο την Thoughtworks. Δες εδώ https://www.thoughtworks.com/radar
+        Technology Radar 2020 απο την Thoughtworks. Δες εδώ https://www.thoughtworks.com/radar
 
 
     Φυσικά τα λόγια είναι περιττά για τα δυνατότερα κανάλια μας που με το content τους μας χαρίζουν άπειρη γνώση, #socialnerds με ΘάνοN, ΘάνοK & more, #techandcode με @Vassilis Saltis και #agile team. Δείτε τα τελευταία τους βίντεο στο αντίστοιχο κανάλι της κοινότητας και στο YouTube:
